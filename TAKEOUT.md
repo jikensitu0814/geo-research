@@ -9,6 +9,8 @@
 3. 讀 `paper/research_paper.md`，查看完整中文研究論文。
 4. 讀 `paper/ai_search_ranking_consistency_article.md`，查看 AI 推薦排序穩定性的公開文章。
 5. 用 `data/rosetta/key_findings_rosetta.csv` 將主要結論追溯到公開證據表。
+6. 讀 `ROADMAP.md`，了解後續 tracking / validation tool 規劃。
+7. 讀 `CONTRIBUTING.md`，了解如何貢獻與避免提交敏感資料。
 
 ## 這份公開包包含什麼
 
@@ -23,6 +25,8 @@
 | `docs/methodology.md` | 抽樣、測量與分類規則 |
 | `docs/data_limitations.md` | 公開資料限制 |
 | `docs/reproducibility.md` | 可重現性說明 |
+| `ROADMAP.md` | 後續 AI Search tracking / validation tool 規劃 |
+| `CONTRIBUTING.md` | 貢獻方式與資料安全規則 |
 | `scripts/validate_public_package.py` | 本地公開包驗證工具 |
 
 ## 研究快照
@@ -50,7 +54,6 @@
 從 repository root 執行：
 
 ```powershell
-cd research_paper\08_to_github
 python scripts\validate_public_package.py
 ```
 

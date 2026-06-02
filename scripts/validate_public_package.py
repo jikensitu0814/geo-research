@@ -10,6 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = [
     "README.md",
     "TAKEOUT.md",
+    "ROADMAP.md",
+    "CONTRIBUTING.md",
     "QUICK_REPORT.md",
     "LICENSE.md",
     "LICENSE-CODE-MIT.md",

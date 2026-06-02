@@ -1,5 +1,7 @@
 ﻿path,status,reason
 TAKEOUT.md,included,Short public handoff guide for readers who download or clone the package
+ROADMAP.md,included,Future tracking and validation tool roadmap
+CONTRIBUTING.md,included,Contribution and sensitive-data safety guidance
 paper/research_paper.md,included,Chinese public research paper
 paper/ai_search_ranking_consistency_article.md,included,Public research article about recommendation order stability
 reports/*.md,excluded,Client-facing industry reports are not part of this public GitHub release
