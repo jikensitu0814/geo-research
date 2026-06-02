@@ -1,0 +1,11 @@
+﻿industry,start_date,end_date,keyword_count,prompt_count,run_count,models
+科技類,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+法律類,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+金融類,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+行銷類,2026-04-27,2026-05-02,9,27,323,chatgpt;gemini
+搬家類,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+服裝類,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+寵物業,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+美妝業,2026-04-27,2026-05-02,9,27,324,chatgpt;gemini
+食品業,2026-04-27,2026-05-02,9,27,323,chatgpt;gemini
+電腦類,2026-04-27,2026-05-02,9,27,323,chatgpt;gemini

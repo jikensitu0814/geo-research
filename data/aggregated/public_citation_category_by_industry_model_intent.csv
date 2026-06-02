@@ -1,0 +1,421 @@
+﻿industry,model_name,intent_type,category,category_label,citation_count,citation_share_pct
+科技類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,6,2.67
+科技類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,99,44.0
+科技類,chatgpt,推薦型,news_media,新聞媒體,85,37.78
+科技類,chatgpt,推薦型,social_media,社群媒體,8,3.56
+科技類,chatgpt,推薦型,ecommerce_site,電商 / 平台,10,4.44
+科技類,chatgpt,推薦型,other_category,其他來源,17,7.56
+科技類,chatgpt,推薦型,unknown,未知來源,0,0.0
+科技類,chatgpt,比較型,brand_site,品牌 / 官方型來源,35,14.4
+科技類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,146,60.08
+科技類,chatgpt,比較型,news_media,新聞媒體,48,19.75
+科技類,chatgpt,比較型,social_media,社群媒體,2,0.82
+科技類,chatgpt,比較型,ecommerce_site,電商 / 平台,2,0.82
+科技類,chatgpt,比較型,other_category,其他來源,10,4.12
+科技類,chatgpt,比較型,unknown,未知來源,0,0.0
+科技類,chatgpt,知識型,brand_site,品牌 / 官方型來源,38,13.97
+科技類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,122,44.85
+科技類,chatgpt,知識型,news_media,新聞媒體,55,20.22
+科技類,chatgpt,知識型,social_media,社群媒體,14,5.15
+科技類,chatgpt,知識型,ecommerce_site,電商 / 平台,27,9.93
+科技類,chatgpt,知識型,other_category,其他來源,16,5.88
+科技類,chatgpt,知識型,unknown,未知來源,0,0.0
+科技類,gemini,推薦型,brand_site,品牌 / 官方型來源,90,17.93
+科技類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,138,27.49
+科技類,gemini,推薦型,news_media,新聞媒體,100,19.92
+科技類,gemini,推薦型,social_media,社群媒體,125,24.9
+科技類,gemini,推薦型,ecommerce_site,電商 / 平台,49,9.76
+科技類,gemini,推薦型,other_category,其他來源,0,0.0
+科技類,gemini,推薦型,unknown,未知來源,0,0.0
+科技類,gemini,比較型,brand_site,品牌 / 官方型來源,108,23.33
+科技類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,121,26.13
+科技類,gemini,比較型,news_media,新聞媒體,105,22.68
+科技類,gemini,比較型,social_media,社群媒體,70,15.12
+科技類,gemini,比較型,ecommerce_site,電商 / 平台,58,12.53
+科技類,gemini,比較型,other_category,其他來源,1,0.22
+科技類,gemini,比較型,unknown,未知來源,0,0.0
+科技類,gemini,知識型,brand_site,品牌 / 官方型來源,167,35.23
+科技類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,84,17.72
+科技類,gemini,知識型,news_media,新聞媒體,90,18.99
+科技類,gemini,知識型,social_media,社群媒體,62,13.08
+科技類,gemini,知識型,ecommerce_site,電商 / 平台,66,13.92
+科技類,gemini,知識型,other_category,其他來源,5,1.05
+科技類,gemini,知識型,unknown,未知來源,0,0.0
+法律類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,226,83.7
+法律類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,21,7.78
+法律類,chatgpt,推薦型,news_media,新聞媒體,16,5.93
+法律類,chatgpt,推薦型,social_media,社群媒體,1,0.37
+法律類,chatgpt,推薦型,ecommerce_site,電商 / 平台,0,0.0
+法律類,chatgpt,推薦型,other_category,其他來源,6,2.22
+法律類,chatgpt,推薦型,unknown,未知來源,0,0.0
+法律類,chatgpt,比較型,brand_site,品牌 / 官方型來源,63,40.91
+法律類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,66,42.86
+法律類,chatgpt,比較型,news_media,新聞媒體,18,11.69
+法律類,chatgpt,比較型,social_media,社群媒體,0,0.0
+法律類,chatgpt,比較型,ecommerce_site,電商 / 平台,0,0.0
+法律類,chatgpt,比較型,other_category,其他來源,7,4.55
+法律類,chatgpt,比較型,unknown,未知來源,0,0.0
+法律類,chatgpt,知識型,brand_site,品牌 / 官方型來源,124,51.24
+法律類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,80,33.06
+法律類,chatgpt,知識型,news_media,新聞媒體,8,3.31
+法律類,chatgpt,知識型,social_media,社群媒體,0,0.0
+法律類,chatgpt,知識型,ecommerce_site,電商 / 平台,0,0.0
+法律類,chatgpt,知識型,other_category,其他來源,30,12.4
+法律類,chatgpt,知識型,unknown,未知來源,0,0.0
+法律類,gemini,推薦型,brand_site,品牌 / 官方型來源,497,86.89
+法律類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,19,3.32
+法律類,gemini,推薦型,news_media,新聞媒體,15,2.62
+法律類,gemini,推薦型,social_media,社群媒體,27,4.72
+法律類,gemini,推薦型,ecommerce_site,電商 / 平台,0,0.0
+法律類,gemini,推薦型,other_category,其他來源,14,2.45
+法律類,gemini,推薦型,unknown,未知來源,0,0.0
+法律類,gemini,比較型,brand_site,品牌 / 官方型來源,504,81.16
+法律類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,42,6.76
+法律類,gemini,比較型,news_media,新聞媒體,28,4.51
+法律類,gemini,比較型,social_media,社群媒體,27,4.35
+法律類,gemini,比較型,ecommerce_site,電商 / 平台,0,0.0
+法律類,gemini,比較型,other_category,其他來源,20,3.22
+法律類,gemini,比較型,unknown,未知來源,0,0.0
+法律類,gemini,知識型,brand_site,品牌 / 官方型來源,485,64.93
+法律類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,50,6.69
+法律類,gemini,知識型,news_media,新聞媒體,28,3.75
+法律類,gemini,知識型,social_media,社群媒體,17,2.28
+法律類,gemini,知識型,ecommerce_site,電商 / 平台,10,1.34
+法律類,gemini,知識型,other_category,其他來源,157,21.02
+法律類,gemini,知識型,unknown,未知來源,0,0.0
+金融類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,44,17.6
+金融類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,180,72.0
+金融類,chatgpt,推薦型,news_media,新聞媒體,24,9.6
+金融類,chatgpt,推薦型,social_media,社群媒體,0,0.0
+金融類,chatgpt,推薦型,ecommerce_site,電商 / 平台,1,0.4
+金融類,chatgpt,推薦型,other_category,其他來源,1,0.4
+金融類,chatgpt,推薦型,unknown,未知來源,0,0.0
+金融類,chatgpt,比較型,brand_site,品牌 / 官方型來源,25,15.92
+金融類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,90,57.32
+金融類,chatgpt,比較型,news_media,新聞媒體,35,22.29
+金融類,chatgpt,比較型,social_media,社群媒體,3,1.91
+金融類,chatgpt,比較型,ecommerce_site,電商 / 平台,1,0.64
+金融類,chatgpt,比較型,other_category,其他來源,3,1.91
+金融類,chatgpt,比較型,unknown,未知來源,0,0.0
+金融類,chatgpt,知識型,brand_site,品牌 / 官方型來源,52,30.06
+金融類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,84,48.55
+金融類,chatgpt,知識型,news_media,新聞媒體,28,16.18
+金融類,chatgpt,知識型,social_media,社群媒體,1,0.58
+金融類,chatgpt,知識型,ecommerce_site,電商 / 平台,0,0.0
+金融類,chatgpt,知識型,other_category,其他來源,8,4.62
+金融類,chatgpt,知識型,unknown,未知來源,0,0.0
+金融類,gemini,推薦型,brand_site,品牌 / 官方型來源,111,18.26
+金融類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,190,31.25
+金融類,gemini,推薦型,news_media,新聞媒體,214,35.2
+金融類,gemini,推薦型,social_media,社群媒體,63,10.36
+金融類,gemini,推薦型,ecommerce_site,電商 / 平台,14,2.3
+金融類,gemini,推薦型,other_category,其他來源,16,2.63
+金融類,gemini,推薦型,unknown,未知來源,0,0.0
+金融類,gemini,比較型,brand_site,品牌 / 官方型來源,109,15.24
+金融類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,318,44.48
+金融類,gemini,比較型,news_media,新聞媒體,194,27.13
+金融類,gemini,比較型,social_media,社群媒體,70,9.79
+金融類,gemini,比較型,ecommerce_site,電商 / 平台,19,2.66
+金融類,gemini,比較型,other_category,其他來源,5,0.7
+金融類,gemini,比較型,unknown,未知來源,0,0.0
+金融類,gemini,知識型,brand_site,品牌 / 官方型來源,242,43.06
+金融類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,124,22.06
+金融類,gemini,知識型,news_media,新聞媒體,126,22.42
+金融類,gemini,知識型,social_media,社群媒體,44,7.83
+金融類,gemini,知識型,ecommerce_site,電商 / 平台,15,2.67
+金融類,gemini,知識型,other_category,其他來源,11,1.96
+金融類,gemini,知識型,unknown,未知來源,0,0.0
+行銷類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,235,64.92
+行銷類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,73,20.17
+行銷類,chatgpt,推薦型,news_media,新聞媒體,4,1.1
+行銷類,chatgpt,推薦型,social_media,社群媒體,0,0.0
+行銷類,chatgpt,推薦型,ecommerce_site,電商 / 平台,13,3.59
+行銷類,chatgpt,推薦型,other_category,其他來源,37,10.22
+行銷類,chatgpt,推薦型,unknown,未知來源,0,0.0
+行銷類,chatgpt,比較型,brand_site,品牌 / 官方型來源,128,76.19
+行銷類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,22,13.1
+行銷類,chatgpt,比較型,news_media,新聞媒體,8,4.76
+行銷類,chatgpt,比較型,social_media,社群媒體,5,2.98
+行銷類,chatgpt,比較型,ecommerce_site,電商 / 平台,3,1.79
+行銷類,chatgpt,比較型,other_category,其他來源,2,1.19
+行銷類,chatgpt,比較型,unknown,未知來源,0,0.0
+行銷類,chatgpt,知識型,brand_site,品牌 / 官方型來源,161,70.61
+行銷類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,33,14.47
+行銷類,chatgpt,知識型,news_media,新聞媒體,30,13.16
+行銷類,chatgpt,知識型,social_media,社群媒體,0,0.0
+行銷類,chatgpt,知識型,ecommerce_site,電商 / 平台,1,0.44
+行銷類,chatgpt,知識型,other_category,其他來源,3,1.32
+行銷類,chatgpt,知識型,unknown,未知來源,0,0.0
+行銷類,gemini,推薦型,brand_site,品牌 / 官方型來源,470,87.04
+行銷類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,35,6.48
+行銷類,gemini,推薦型,news_media,新聞媒體,18,3.33
+行銷類,gemini,推薦型,social_media,社群媒體,11,2.04
+行銷類,gemini,推薦型,ecommerce_site,電商 / 平台,0,0.0
+行銷類,gemini,推薦型,other_category,其他來源,6,1.11
+行銷類,gemini,推薦型,unknown,未知來源,0,0.0
+行銷類,gemini,比較型,brand_site,品牌 / 官方型來源,507,88.02
+行銷類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,32,5.56
+行銷類,gemini,比較型,news_media,新聞媒體,8,1.39
+行銷類,gemini,比較型,social_media,社群媒體,22,3.82
+行銷類,gemini,比較型,ecommerce_site,電商 / 平台,1,0.17
+行銷類,gemini,比較型,other_category,其他來源,6,1.04
+行銷類,gemini,比較型,unknown,未知來源,0,0.0
+行銷類,gemini,知識型,brand_site,品牌 / 官方型來源,398,77.89
+行銷類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,47,9.2
+行銷類,gemini,知識型,news_media,新聞媒體,18,3.52
+行銷類,gemini,知識型,social_media,社群媒體,33,6.46
+行銷類,gemini,知識型,ecommerce_site,電商 / 平台,2,0.39
+行銷類,gemini,知識型,other_category,其他來源,13,2.54
+行銷類,gemini,知識型,unknown,未知來源,0,0.0
+搬家類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,219,65.37
+搬家類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,59,17.61
+搬家類,chatgpt,推薦型,news_media,新聞媒體,2,0.6
+搬家類,chatgpt,推薦型,social_media,社群媒體,9,2.69
+搬家類,chatgpt,推薦型,ecommerce_site,電商 / 平台,28,8.36
+搬家類,chatgpt,推薦型,other_category,其他來源,18,5.37
+搬家類,chatgpt,推薦型,unknown,未知來源,0,0.0
+搬家類,chatgpt,比較型,brand_site,品牌 / 官方型來源,167,71.06
+搬家類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,29,12.34
+搬家類,chatgpt,比較型,news_media,新聞媒體,11,4.68
+搬家類,chatgpt,比較型,social_media,社群媒體,1,0.43
+搬家類,chatgpt,比較型,ecommerce_site,電商 / 平台,12,5.11
+搬家類,chatgpt,比較型,other_category,其他來源,15,6.38
+搬家類,chatgpt,比較型,unknown,未知來源,0,0.0
+搬家類,chatgpt,知識型,brand_site,品牌 / 官方型來源,210,74.73
+搬家類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,16,5.69
+搬家類,chatgpt,知識型,news_media,新聞媒體,31,11.03
+搬家類,chatgpt,知識型,social_media,社群媒體,0,0.0
+搬家類,chatgpt,知識型,ecommerce_site,電商 / 平台,10,3.56
+搬家類,chatgpt,知識型,other_category,其他來源,14,4.98
+搬家類,chatgpt,知識型,unknown,未知來源,0,0.0
+搬家類,gemini,推薦型,brand_site,品牌 / 官方型來源,374,61.11
+搬家類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,101,16.5
+搬家類,gemini,推薦型,news_media,新聞媒體,11,1.8
+搬家類,gemini,推薦型,social_media,社群媒體,49,8.01
+搬家類,gemini,推薦型,ecommerce_site,電商 / 平台,65,10.62
+搬家類,gemini,推薦型,other_category,其他來源,12,1.96
+搬家類,gemini,推薦型,unknown,未知來源,0,0.0
+搬家類,gemini,比較型,brand_site,品牌 / 官方型來源,417,68.59
+搬家類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,57,9.38
+搬家類,gemini,比較型,news_media,新聞媒體,32,5.26
+搬家類,gemini,比較型,social_media,社群媒體,41,6.74
+搬家類,gemini,比較型,ecommerce_site,電商 / 平台,45,7.4
+搬家類,gemini,比較型,other_category,其他來源,16,2.63
+搬家類,gemini,比較型,unknown,未知來源,0,0.0
+搬家類,gemini,知識型,brand_site,品牌 / 官方型來源,527,82.47
+搬家類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,23,3.6
+搬家類,gemini,知識型,news_media,新聞媒體,29,4.54
+搬家類,gemini,知識型,social_media,社群媒體,14,2.19
+搬家類,gemini,知識型,ecommerce_site,電商 / 平台,34,5.32
+搬家類,gemini,知識型,other_category,其他來源,12,1.88
+搬家類,gemini,知識型,unknown,未知來源,0,0.0
+服裝類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,88,31.21
+服裝類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,79,28.01
+服裝類,chatgpt,推薦型,news_media,新聞媒體,60,21.28
+服裝類,chatgpt,推薦型,social_media,社群媒體,3,1.06
+服裝類,chatgpt,推薦型,ecommerce_site,電商 / 平台,41,14.54
+服裝類,chatgpt,推薦型,other_category,其他來源,11,3.9
+服裝類,chatgpt,推薦型,unknown,未知來源,0,0.0
+服裝類,chatgpt,比較型,brand_site,品牌 / 官方型來源,24,13.41
+服裝類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,62,34.64
+服裝類,chatgpt,比較型,news_media,新聞媒體,42,23.46
+服裝類,chatgpt,比較型,social_media,社群媒體,2,1.12
+服裝類,chatgpt,比較型,ecommerce_site,電商 / 平台,38,21.23
+服裝類,chatgpt,比較型,other_category,其他來源,11,6.15
+服裝類,chatgpt,比較型,unknown,未知來源,0,0.0
+服裝類,chatgpt,知識型,brand_site,品牌 / 官方型來源,55,34.16
+服裝類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,43,26.71
+服裝類,chatgpt,知識型,news_media,新聞媒體,25,15.53
+服裝類,chatgpt,知識型,social_media,社群媒體,0,0.0
+服裝類,chatgpt,知識型,ecommerce_site,電商 / 平台,30,18.63
+服裝類,chatgpt,知識型,other_category,其他來源,8,4.97
+服裝類,chatgpt,知識型,unknown,未知來源,0,0.0
+服裝類,gemini,推薦型,brand_site,品牌 / 官方型來源,156,26.67
+服裝類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,53,9.06
+服裝類,gemini,推薦型,news_media,新聞媒體,136,23.25
+服裝類,gemini,推薦型,social_media,社群媒體,110,18.8
+服裝類,gemini,推薦型,ecommerce_site,電商 / 平台,111,18.97
+服裝類,gemini,推薦型,other_category,其他來源,19,3.25
+服裝類,gemini,推薦型,unknown,未知來源,0,0.0
+服裝類,gemini,比較型,brand_site,品牌 / 官方型來源,130,19.55
+服裝類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,73,10.98
+服裝類,gemini,比較型,news_media,新聞媒體,98,14.74
+服裝類,gemini,比較型,social_media,社群媒體,122,18.35
+服裝類,gemini,比較型,ecommerce_site,電商 / 平台,227,34.14
+服裝類,gemini,比較型,other_category,其他來源,15,2.26
+服裝類,gemini,比較型,unknown,未知來源,0,0.0
+服裝類,gemini,知識型,brand_site,品牌 / 官方型來源,190,31.61
+服裝類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,32,5.32
+服裝類,gemini,知識型,news_media,新聞媒體,104,17.3
+服裝類,gemini,知識型,social_media,社群媒體,44,7.32
+服裝類,gemini,知識型,ecommerce_site,電商 / 平台,136,22.63
+服裝類,gemini,知識型,other_category,其他來源,95,15.81
+服裝類,gemini,知識型,unknown,未知來源,0,0.0
+寵物業,chatgpt,推薦型,brand_site,品牌 / 官方型來源,78,27.96
+寵物業,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,113,40.5
+寵物業,chatgpt,推薦型,news_media,新聞媒體,26,9.32
+寵物業,chatgpt,推薦型,social_media,社群媒體,6,2.15
+寵物業,chatgpt,推薦型,ecommerce_site,電商 / 平台,50,17.92
+寵物業,chatgpt,推薦型,other_category,其他來源,6,2.15
+寵物業,chatgpt,推薦型,unknown,未知來源,0,0.0
+寵物業,chatgpt,比較型,brand_site,品牌 / 官方型來源,71,29.34
+寵物業,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,99,40.91
+寵物業,chatgpt,比較型,news_media,新聞媒體,4,1.65
+寵物業,chatgpt,比較型,social_media,社群媒體,3,1.24
+寵物業,chatgpt,比較型,ecommerce_site,電商 / 平台,47,19.42
+寵物業,chatgpt,比較型,other_category,其他來源,18,7.44
+寵物業,chatgpt,比較型,unknown,未知來源,0,0.0
+寵物業,chatgpt,知識型,brand_site,品牌 / 官方型來源,69,33.82
+寵物業,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,94,46.08
+寵物業,chatgpt,知識型,news_media,新聞媒體,3,1.47
+寵物業,chatgpt,知識型,social_media,社群媒體,2,0.98
+寵物業,chatgpt,知識型,ecommerce_site,電商 / 平台,30,14.71
+寵物業,chatgpt,知識型,other_category,其他來源,6,2.94
+寵物業,chatgpt,知識型,unknown,未知來源,0,0.0
+寵物業,gemini,推薦型,brand_site,品牌 / 官方型來源,131,23.06
+寵物業,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,116,20.42
+寵物業,gemini,推薦型,news_media,新聞媒體,56,9.86
+寵物業,gemini,推薦型,social_media,社群媒體,116,20.42
+寵物業,gemini,推薦型,ecommerce_site,電商 / 平台,147,25.88
+寵物業,gemini,推薦型,other_category,其他來源,2,0.35
+寵物業,gemini,推薦型,unknown,未知來源,0,0.0
+寵物業,gemini,比較型,brand_site,品牌 / 官方型來源,216,34.78
+寵物業,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,108,17.39
+寵物業,gemini,比較型,news_media,新聞媒體,57,9.18
+寵物業,gemini,比較型,social_media,社群媒體,59,9.5
+寵物業,gemini,比較型,ecommerce_site,電商 / 平台,167,26.89
+寵物業,gemini,比較型,other_category,其他來源,14,2.25
+寵物業,gemini,比較型,unknown,未知來源,0,0.0
+寵物業,gemini,知識型,brand_site,品牌 / 官方型來源,247,45.32
+寵物業,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,71,13.03
+寵物業,gemini,知識型,news_media,新聞媒體,33,6.06
+寵物業,gemini,知識型,social_media,社群媒體,24,4.4
+寵物業,gemini,知識型,ecommerce_site,電商 / 平台,149,27.34
+寵物業,gemini,知識型,other_category,其他來源,21,3.85
+寵物業,gemini,知識型,unknown,未知來源,0,0.0
+美妝業,chatgpt,推薦型,brand_site,品牌 / 官方型來源,48,18.97
+美妝業,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,54,21.34
+美妝業,chatgpt,推薦型,news_media,新聞媒體,121,47.83
+美妝業,chatgpt,推薦型,social_media,社群媒體,9,3.56
+美妝業,chatgpt,推薦型,ecommerce_site,電商 / 平台,14,5.53
+美妝業,chatgpt,推薦型,other_category,其他來源,7,2.77
+美妝業,chatgpt,推薦型,unknown,未知來源,0,0.0
+美妝業,chatgpt,比較型,brand_site,品牌 / 官方型來源,41,21.24
+美妝業,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,35,18.13
+美妝業,chatgpt,比較型,news_media,新聞媒體,89,46.11
+美妝業,chatgpt,比較型,social_media,社群媒體,6,3.11
+美妝業,chatgpt,比較型,ecommerce_site,電商 / 平台,10,5.18
+美妝業,chatgpt,比較型,other_category,其他來源,12,6.22
+美妝業,chatgpt,比較型,unknown,未知來源,0,0.0
+美妝業,chatgpt,知識型,brand_site,品牌 / 官方型來源,70,36.27
+美妝業,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,39,20.21
+美妝業,chatgpt,知識型,news_media,新聞媒體,38,19.69
+美妝業,chatgpt,知識型,social_media,社群媒體,4,2.07
+美妝業,chatgpt,知識型,ecommerce_site,電商 / 平台,31,16.06
+美妝業,chatgpt,知識型,other_category,其他來源,11,5.7
+美妝業,chatgpt,知識型,unknown,未知來源,0,0.0
+美妝業,gemini,推薦型,brand_site,品牌 / 官方型來源,123,17.72
+美妝業,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,64,9.22
+美妝業,gemini,推薦型,news_media,新聞媒體,351,50.58
+美妝業,gemini,推薦型,social_media,社群媒體,88,12.68
+美妝業,gemini,推薦型,ecommerce_site,電商 / 平台,64,9.22
+美妝業,gemini,推薦型,other_category,其他來源,4,0.58
+美妝業,gemini,推薦型,unknown,未知來源,0,0.0
+美妝業,gemini,比較型,brand_site,品牌 / 官方型來源,289,41.34
+美妝業,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,55,7.87
+美妝業,gemini,比較型,news_media,新聞媒體,197,28.18
+美妝業,gemini,比較型,social_media,社群媒體,46,6.58
+美妝業,gemini,比較型,ecommerce_site,電商 / 平台,104,14.88
+美妝業,gemini,比較型,other_category,其他來源,8,1.14
+美妝業,gemini,比較型,unknown,未知來源,0,0.0
+美妝業,gemini,知識型,brand_site,品牌 / 官方型來源,342,50.37
+美妝業,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,60,8.84
+美妝業,gemini,知識型,news_media,新聞媒體,100,14.73
+美妝業,gemini,知識型,social_media,社群媒體,42,6.19
+美妝業,gemini,知識型,ecommerce_site,電商 / 平台,134,19.73
+美妝業,gemini,知識型,other_category,其他來源,1,0.15
+美妝業,gemini,知識型,unknown,未知來源,0,0.0
+食品業,chatgpt,推薦型,brand_site,品牌 / 官方型來源,37,12.94
+食品業,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,100,34.97
+食品業,chatgpt,推薦型,news_media,新聞媒體,106,37.06
+食品業,chatgpt,推薦型,social_media,社群媒體,2,0.7
+食品業,chatgpt,推薦型,ecommerce_site,電商 / 平台,30,10.49
+食品業,chatgpt,推薦型,other_category,其他來源,11,3.85
+食品業,chatgpt,推薦型,unknown,未知來源,0,0.0
+食品業,chatgpt,比較型,brand_site,品牌 / 官方型來源,31,14.03
+食品業,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,47,21.27
+食品業,chatgpt,比較型,news_media,新聞媒體,75,33.94
+食品業,chatgpt,比較型,social_media,社群媒體,2,0.9
+食品業,chatgpt,比較型,ecommerce_site,電商 / 平台,57,25.79
+食品業,chatgpt,比較型,other_category,其他來源,9,4.07
+食品業,chatgpt,比較型,unknown,未知來源,0,0.0
+食品業,chatgpt,知識型,brand_site,品牌 / 官方型來源,50,40.98
+食品業,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,30,24.59
+食品業,chatgpt,知識型,news_media,新聞媒體,15,12.3
+食品業,chatgpt,知識型,social_media,社群媒體,2,1.64
+食品業,chatgpt,知識型,ecommerce_site,電商 / 平台,20,16.39
+食品業,chatgpt,知識型,other_category,其他來源,5,4.1
+食品業,chatgpt,知識型,unknown,未知來源,0,0.0
+食品業,gemini,推薦型,brand_site,品牌 / 官方型來源,82,10.43
+食品業,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,252,32.06
+食品業,gemini,推薦型,news_media,新聞媒體,269,34.22
+食品業,gemini,推薦型,social_media,社群媒體,104,13.23
+食品業,gemini,推薦型,ecommerce_site,電商 / 平台,75,9.54
+食品業,gemini,推薦型,other_category,其他來源,4,0.51
+食品業,gemini,推薦型,unknown,未知來源,0,0.0
+食品業,gemini,比較型,brand_site,品牌 / 官方型來源,81,11.3
+食品業,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,147,20.5
+食品業,gemini,比較型,news_media,新聞媒體,265,36.96
+食品業,gemini,比較型,social_media,社群媒體,82,11.44
+食品業,gemini,比較型,ecommerce_site,電商 / 平台,130,18.13
+食品業,gemini,比較型,other_category,其他來源,12,1.67
+食品業,gemini,比較型,unknown,未知來源,0,0.0
+食品業,gemini,知識型,brand_site,品牌 / 官方型來源,129,31.7
+食品業,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,60,14.74
+食品業,gemini,知識型,news_media,新聞媒體,132,32.43
+食品業,gemini,知識型,social_media,社群媒體,17,4.18
+食品業,gemini,知識型,ecommerce_site,電商 / 平台,63,15.48
+食品業,gemini,知識型,other_category,其他來源,6,1.47
+食品業,gemini,知識型,unknown,未知來源,0,0.0
+電腦類,chatgpt,推薦型,brand_site,品牌 / 官方型來源,17,7.33
+電腦類,chatgpt,推薦型,influencer_blogger,評測 / 部落格 / KOL,103,44.4
+電腦類,chatgpt,推薦型,news_media,新聞媒體,77,33.19
+電腦類,chatgpt,推薦型,social_media,社群媒體,19,8.19
+電腦類,chatgpt,推薦型,ecommerce_site,電商 / 平台,11,4.74
+電腦類,chatgpt,推薦型,other_category,其他來源,5,2.16
+電腦類,chatgpt,推薦型,unknown,未知來源,0,0.0
+電腦類,chatgpt,比較型,brand_site,品牌 / 官方型來源,56,23.73
+電腦類,chatgpt,比較型,influencer_blogger,評測 / 部落格 / KOL,110,46.61
+電腦類,chatgpt,比較型,news_media,新聞媒體,46,19.49
+電腦類,chatgpt,比較型,social_media,社群媒體,0,0.0
+電腦類,chatgpt,比較型,ecommerce_site,電商 / 平台,18,7.63
+電腦類,chatgpt,比較型,other_category,其他來源,6,2.54
+電腦類,chatgpt,比較型,unknown,未知來源,0,0.0
+電腦類,chatgpt,知識型,brand_site,品牌 / 官方型來源,59,42.75
+電腦類,chatgpt,知識型,influencer_blogger,評測 / 部落格 / KOL,56,40.58
+電腦類,chatgpt,知識型,news_media,新聞媒體,6,4.35
+電腦類,chatgpt,知識型,social_media,社群媒體,1,0.72
+電腦類,chatgpt,知識型,ecommerce_site,電商 / 平台,11,7.97
+電腦類,chatgpt,知識型,other_category,其他來源,5,3.62
+電腦類,chatgpt,知識型,unknown,未知來源,0,0.0
+電腦類,gemini,推薦型,brand_site,品牌 / 官方型來源,119,23.56
+電腦類,gemini,推薦型,influencer_blogger,評測 / 部落格 / KOL,55,10.89
+電腦類,gemini,推薦型,news_media,新聞媒體,111,21.98
+電腦類,gemini,推薦型,social_media,社群媒體,125,24.75
+電腦類,gemini,推薦型,ecommerce_site,電商 / 平台,92,18.22
+電腦類,gemini,推薦型,other_category,其他來源,3,0.59
+電腦類,gemini,推薦型,unknown,未知來源,0,0.0
+電腦類,gemini,比較型,brand_site,品牌 / 官方型來源,104,22.08
+電腦類,gemini,比較型,influencer_blogger,評測 / 部落格 / KOL,45,9.55
+電腦類,gemini,比較型,news_media,新聞媒體,64,13.59
+電腦類,gemini,比較型,social_media,社群媒體,162,34.39
+電腦類,gemini,比較型,ecommerce_site,電商 / 平台,90,19.11
+電腦類,gemini,比較型,other_category,其他來源,6,1.27
+電腦類,gemini,比較型,unknown,未知來源,0,0.0
+電腦類,gemini,知識型,brand_site,品牌 / 官方型來源,189,34.24
+電腦類,gemini,知識型,influencer_blogger,評測 / 部落格 / KOL,36,6.52
+電腦類,gemini,知識型,news_media,新聞媒體,76,13.77
+電腦類,gemini,知識型,social_media,社群媒體,145,26.27
+電腦類,gemini,知識型,ecommerce_site,電商 / 平台,97,17.57
+電腦類,gemini,知識型,other_category,其他來源,9,1.63
+電腦類,gemini,知識型,unknown,未知來源,0,0.0

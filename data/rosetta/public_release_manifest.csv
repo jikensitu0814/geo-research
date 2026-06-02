@@ -1,0 +1,14 @@
+﻿path,status,reason
+TAKEOUT.md,included,Short public handoff guide for readers who download or clone the package
+paper/research_paper.md,included,Chinese public research paper
+paper/ai_search_ranking_consistency_article.md,included,Public research article about recommendation order stability
+reports/*.md,excluded,Client-facing industry reports are not part of this public GitHub release
+paper/assets/*.png,included,Existing public figures
+data/aggregated/*.csv,included,Aggregated public statistics
+data/rosetta/*.csv,included,Finding-to-evidence mapping
+docs/*.md,included,Methodology and limitations
+scripts/*.py,included,Public package validation helper
+data/*.db,excluded,SQLite databases are not part of public release
+raw exports,excluded,Run-level traces are not public
+.env,excluded,Secrets and environment variables
+render_check/,excluded,Local rendering artifacts

@@ -1,0 +1,21 @@
+﻿industry,model,unique_brand_count,shared_brand_count,example_exclusive_brands
+寵物業,chatgpt,62,50,Bravery;Hill’s Science Diet;汪喵;Purina One;American Journey
+寵物業,gemini,67,50,Park Cat;Allando;TAPAZO;巔峰;Ziwipeak
+搬家類,chatgpt,65,33,良辰搬家;添福精緻搬家;行男好鄰居搬家;豪華搬家;Steven The Mover
+搬家類,gemini,100,33,第四台;華陽優質搬家;詠心搬家;大心搬家;華陽優質
+服裝類,chatgpt,88,54,Rat & Boa;低跟鞋;Rixo;無印;小白鞋
+服裝類,gemini,136,54,Yours Clothing;Diane von Furstenberg;Sierra LUNA;Revolve;Doris
+法律類,chatgpt,39,31,金佳好法律平台;Bank;Lawyer;樂羽;凱業律師
+法律類,gemini,89,31,楊富淞;財政部;計程車;CP;陳頂新律師
+科技類,chatgpt,18,29,Anker;TechRadar;Yeedi;S8 MaxV Ultra;Wyze
+科技類,gemini,29,29,安德家品;3i;MOMO;聯強國際;Q7 Max
+美妝業,chatgpt,64,61,Protect + Hydrate 防曬;Thinksport;Neutrogena;Coppertone;安得利清爽極效防曬液 SPF50+
+美妝業,gemini,98,61,Boots;Titanium Dioxide;持采 UV 高效防曬水凝乳 EX;凡士林;Biore 高防曬乳液
+行銷類,chatgpt,141,42,Victorious;立仁世紀;Search Engine Optimization;SEO Service Care;MarTech Lab
+行銷類,gemini,46,42,偉利科技;HARRIS;AEO;Harris 先生;awoo 阿物科技
+金融類,chatgpt,49,64,Chang Hwa Bank;Taiwan Pay;台灣Pay;合作金庫;Citi
+金融類,gemini,146,64,EVA Air;美國運通;國泰世華 CUBE;玉山 Unicard;中華航空
+電腦類,chatgpt,55,70,G16;Google;ZenBook;ASUS ROG Zephyrus G14;HP Pavilion
+電腦類,gemini,97,70,Copilot+ PC;Zenbook S 13 OLED;M4;GIGABYTE;HMB
+食品業,chatgpt,80,59,膳馨;金莎;新復珍;CP;芝麻開門
+食品業,gemini,82,59,拉波兒麵包;三美珍餅行;慶祝烘焙;彰化紀家;Amedei

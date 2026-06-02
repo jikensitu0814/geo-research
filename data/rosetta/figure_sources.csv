@@ -1,0 +1,7 @@
+﻿figure_id,file,source_file,status
+Fig1,paper/assets/01_overall_model_comparison.png,public_model_intent_metrics_overall.csv,retained legacy visual
+Fig2,paper/assets/02_industry_visibility_matrix.png,public_model_metrics_by_industry.csv,retained legacy visual
+Fig3,paper/assets/03_intent_pattern.png,public_model_intent_metrics_by_industry.csv,retained legacy visual
+Fig16,paper/assets/16_ordered_list_consistency.png,L1_ordered_consistency_by_model_intent.csv,ranking consistency by model and intent
+Fig17,paper/assets/17_visibility_vs_rank_stability.png,L3_entity_visibility_rank_stability.csv,entity visibility compared with rank volatility
+Fig18,paper/assets/18_top1_stability_by_industry.png,L2_ordered_consistency_by_industry_model_intent.csv,weighted Top-1 and Top-3 stability by industry

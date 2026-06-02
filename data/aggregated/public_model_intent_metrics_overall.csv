@@ -1,0 +1,7 @@
+﻿intent_type,model_name,avg_mention_count,avg_citation_count,n
+推薦型,chatgpt,6.0435,5.1479,539
+推薦型,gemini,7.793,11.059,540
+比較型,chatgpt,2.2188,3.7612,539
+比較型,gemini,4.651,11.399,540
+知識型,chatgpt,0.6848,3.7351,539
+知識型,gemini,2.027,10.586,540

@@ -1,0 +1,61 @@
+﻿industry,category,category_label,citation_count,citation_share_pct
+科技類,influencer_blogger,評測 / 部落格 / KOL,710,32.58
+科技類,social_media,社群媒體,281,12.9
+科技類,brand_site,品牌 / 官方型來源,444,20.38
+科技類,news_media,新聞媒體,483,22.17
+科技類,other_category,其他來源,49,2.25
+科技類,ecommerce_site,電商 / 平台,212,9.73
+法律類,brand_site,品牌 / 官方型來源,1899,72.87
+法律類,influencer_blogger,評測 / 部落格 / KOL,278,10.67
+法律類,news_media,新聞媒體,113,4.34
+法律類,other_category,其他來源,234,8.98
+法律類,social_media,社群媒體,72,2.76
+法律類,ecommerce_site,電商 / 平台,10,0.38
+金融類,influencer_blogger,評測 / 部落格 / KOL,986,40.0
+金融類,news_media,新聞媒體,621,25.19
+金融類,brand_site,品牌 / 官方型來源,583,23.65
+金融類,social_media,社群媒體,181,7.34
+金融類,ecommerce_site,電商 / 平台,50,2.03
+金融類,other_category,其他來源,44,1.78
+行銷類,brand_site,品牌 / 官方型來源,1899,79.62
+行銷類,other_category,其他來源,67,2.81
+行銷類,social_media,社群媒體,71,2.98
+行銷類,influencer_blogger,評測 / 部落格 / KOL,242,10.15
+行銷類,news_media,新聞媒體,86,3.61
+行銷類,ecommerce_site,電商 / 平台,20,0.84
+搬家類,brand_site,品牌 / 官方型來源,1914,70.63
+搬家類,ecommerce_site,電商 / 平台,194,7.16
+搬家類,news_media,新聞媒體,116,4.28
+搬家類,other_category,其他來源,87,3.21
+搬家類,social_media,社群媒體,114,4.21
+搬家類,influencer_blogger,評測 / 部落格 / KOL,285,10.52
+服裝類,other_category,其他來源,159,6.43
+服裝類,brand_site,品牌 / 官方型來源,643,26.0
+服裝類,news_media,新聞媒體,465,18.8
+服裝類,influencer_blogger,評測 / 部落格 / KOL,342,13.83
+服裝類,ecommerce_site,電商 / 平台,583,23.57
+服裝類,social_media,社群媒體,281,11.36
+寵物業,ecommerce_site,電商 / 平台,590,23.99
+寵物業,influencer_blogger,評測 / 部落格 / KOL,601,24.44
+寵物業,brand_site,品牌 / 官方型來源,812,33.02
+寵物業,other_category,其他來源,67,2.72
+寵物業,news_media,新聞媒體,179,7.28
+寵物業,social_media,社群媒體,210,8.54
+美妝業,brand_site,品牌 / 官方型來源,913,33.68
+美妝業,news_media,新聞媒體,896,33.05
+美妝業,social_media,社群媒體,195,7.19
+美妝業,influencer_blogger,評測 / 部落格 / KOL,307,11.32
+美妝業,ecommerce_site,電商 / 平台,357,13.17
+美妝業,other_category,其他來源,43,1.59
+食品業,news_media,新聞媒體,862,33.95
+食品業,ecommerce_site,電商 / 平台,375,14.77
+食品業,brand_site,品牌 / 官方型來源,410,16.15
+食品業,influencer_blogger,評測 / 部落格 / KOL,636,25.05
+食品業,social_media,社群媒體,209,8.23
+食品業,other_category,其他來源,47,1.85
+電腦類,brand_site,品牌 / 官方型來源,544,25.49
+電腦類,ecommerce_site,電商 / 平台,319,14.95
+電腦類,social_media,社群媒體,452,21.18
+電腦類,news_media,新聞媒體,380,17.81
+電腦類,influencer_blogger,評測 / 部落格 / KOL,405,18.98
+電腦類,other_category,其他來源,34,1.59

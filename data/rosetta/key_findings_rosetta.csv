@@ -1,0 +1,8 @@
+﻿finding_id,finding,metric,evidence_value,source_file,paper_section
+F1,Gemini generally uses broader citation coverage than ChatGPT,avg_citation_count,Compare model-level citation averages by industry,public_model_metrics_by_industry.csv,核心發現 1
+F2,Recommendation prompts trigger stronger brand candidate lists,avg_mention_count,Recommendation intent has the highest brand mentions in many industries,public_model_intent_metrics_by_industry.csv,核心發現 2
+F3,Citation sources vary by industry and intent,citation_category_share,Citation category shares differ across model and intent groups,public_citation_category_by_industry_model_intent.csv,核心發現 3
+F4,Brand-mentioned responses have a distinct citation-category mix,category_shift,Citation categories split by mention_status,C_brand_mention_s1_category.csv,核心發現 3
+F5,Citation domain stability and brand stability should be tracked separately,adjacent_day_overlap_pct,Domain and brand stability tables use separate overlap metrics,public_domain_stability_by_industry_intent.csv,核心發現 4
+F6,Brand mention stability is a separate monitoring layer,adjacent_day_overlap_pct,"Brand overlap metrics by industry, model, and intent",public_brand_stability_by_industry_intent.csv,核心發現 4
+F7,AI recommendation order is less stable than entity visibility,exact_same_ordered_list_pct;top1_same_pct;avg_top3_overlap_pct,Ranking consistency should be evaluated separately from entity-set stability,L1_ordered_consistency_by_model_intent.csv,排名順序一致性

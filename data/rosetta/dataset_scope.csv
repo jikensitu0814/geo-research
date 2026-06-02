@@ -1,0 +1,9 @@
+﻿metric,value,note
+study_period,2026-04-27 to 2026-05-02,Main observation window
+industries,10,Industry aggregate statistics included
+intent_types,3,Recommendation/comparison/knowledge
+models,2,ChatGPT and Gemini
+study_design_runs,3240,Designed six-day sample
+valid_analysis_samples,3237,Main statistics sample after cleaning
+public_raw_response_text,no,Excluded
+public_sqlite_database,no,Excluded

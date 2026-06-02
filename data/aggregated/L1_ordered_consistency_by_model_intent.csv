@@ -1,0 +1,7 @@
+﻿model,intent,adjacent_pair_count,exact_same_ordered_list_pct,exact_same_unordered_set_pct,top1_same_pct,avg_top3_overlap_pct,avg_entity_set_jaccard_pct,avg_rank_volatility,analyzed_prompt_count
+chatgpt,推薦型,425,1.65,2.35,24.47,33.33,27.39,1.4052,90
+chatgpt,比較型,288,6.6,6.94,19.79,21.93,21.66,1.1869,82
+chatgpt,知識型,181,14.36,14.36,25.97,24.4,22.44,0.373,62
+gemini,推薦型,448,0.67,1.12,28.57,34.56,32.77,1.679,90
+gemini,比較型,386,2.85,3.89,21.5,26.68,22.94,1.861,90
+gemini,知識型,297,5.72,5.72,23.23,23.74,20.26,0.8744,81

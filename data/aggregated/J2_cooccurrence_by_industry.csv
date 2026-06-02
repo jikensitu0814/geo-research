@@ -1,0 +1,101 @@
+﻿industry,brand_a,brand_b,cooccurrence_count
+科技類,Dreame,Roborock,140
+科技類,Roborock,Xiaomi,112
+科技類,Dreame,Xiaomi,83
+科技類,Roborock,iRobot,79
+科技類,ECOVACS,Roborock,62
+科技類,Dreame,iRobot,60
+科技類,Ecovacs,Roborock,58
+科技類,Dreame,ECOVACS,51
+科技類,Dreame,Ecovacs,47
+科技類,Xiaomi,iRobot,46
+法律類,Biore,La Roche-Posay,20
+法律類,OLAW,PAMO,18
+法律類,PAMO,PRO360,15
+法律類,PAMO,法律圈,14
+法律類,PAMO,政理法律事務所,13
+法律類,PAMO,法律扶助基金會,12
+法律類,喆律法律事務所,政理法律事務所,12
+法律類,PAMO,林明侖,10
+法律類,政理法律事務所,法律圈,9
+法律類,協恆國際法律事務所,政理法律事務所,9
+金融類,台新,玉山,73
+金融類,台新,永豐,68
+金融類,永豐,玉山,64
+金融類,永豐,滙豐,58
+金融類,滙豐,玉山,57
+金融類,台新,滙豐,56
+金融類,台新,國泰世華,55
+金融類,台新,聯邦,55
+金融類,國泰世華,玉山,48
+金融類,LINE Pay,台新,45
+行銷類,將能數位行銷,集客數據行銷,42
+行銷類,awoo,集客數據行銷,40
+行銷類,Welly SEO,將能數位行銷,40
+行銷類,awoo,將能數位行銷,38
+行銷類,Welly SEO,集客數據行銷,38
+行銷類,Welly SEO,awoo,36
+行銷類,將能數位行銷,零一行銷,33
+行銷類,awoo,零一行銷,31
+行銷類,Welly SEO,零一行銷,30
+行銷類,集客數據行銷,零一行銷,29
+搬家類,康福搬家,超便宜搬家,58
+搬家類,巨力搬家,康福搬家,45
+搬家類,巨力搬家,超便宜搬家,44
+搬家類,崔媽媽基金會,康福搬家,42
+搬家類,Dcard,PTT,40
+搬家類,崔媽媽基金會,超便宜搬家,39
+搬家類,PTT,康福搬家,38
+搬家類,天喜搬家,超便宜搬家,37
+搬家類,天喜搬家,康福搬家,36
+搬家類,PTT,超便宜搬家,36
+服裝類,GU,UNIQLO,24
+服裝類,H&M,ZARA,21
+服裝類,GU,ZARA,20
+服裝類,UNIQLO,ZARA,17
+服裝類,COS,Uniqlo,17
+服裝類,COS,UNIQLO,17
+服裝類,MOMA,iROO,17
+服裝類,COS,GU,16
+服裝類,GU,NET,15
+服裝類,GU,H&M,15
+寵物業,Orijen,Royal Canin,77
+寵物業,Farmina,Orijen,56
+寵物業,Instinct,Orijen,55
+寵物業,Mobby,Orijen,47
+寵物業,Instinct,Royal Canin,42
+寵物業,Farmina,Royal Canin,41
+寵物業,Acana,Orijen,37
+寵物業,Farmina,Mobby,35
+寵物業,Mobby,Royal Canin,35
+寵物業,Hill's,Royal Canin,33
+美妝業,CeraVe,La Roche-Posay,40
+美妝業,ALLIE,Biore,31
+美妝業,ALLIE,La Roche-Posay,28
+美妝業,ALLIE,ANESSA,26
+美妝業,Curél,La Roche-Posay,24
+美妝業,CeraVe,Neogence,22
+美妝業,ANESSA,La Roche-Posay,22
+美妝業,CeraVe,理膚寶水,21
+美妝業,Anessa,La Roche-Posay,20
+美妝業,Avène,La Roche-Posay,19
+電腦類,ASUS,Lenovo,125
+電腦類,ASUS,Acer,122
+電腦類,Acer,Lenovo,111
+電腦類,ASUS,HP,83
+電腦類,AMD,Intel,74
+電腦類,HP,Lenovo,73
+電腦類,ASUS,Apple,72
+電腦類,Acer,HP,72
+電腦類,Apple,Lenovo,62
+電腦類,ASUS,Intel,58
+食品業,不二坊,不二糕餅,84
+食品業,不二糕餅,香格禮坊,68
+食品業,不二坊,小潘蛋糕坊,61
+食品業,不二糕餅,小潘蛋糕坊,52
+食品業,不二坊,法朋烘焙甜點坊,49
+食品業,不二坊,香格禮坊,49
+食品業,不二坊,陳耀訓,49
+食品業,不二糕餅,法朋烘焙甜點坊,48
+食品業,一福堂,不二糕餅,48
+食品業,不二坊,新口味食品行,44

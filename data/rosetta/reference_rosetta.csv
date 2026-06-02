@@ -1,0 +1,4 @@
+ref_id,citation,role_in_paper,used_in_sections,url
+R1,"Aggarwal et al. (2023), GEO: Generative Engine Optimization","Defines GEO and motivates AI Search visibility as a research problem","Abstract; Related Work; Discussion",https://arxiv.org/abs/2311.09735
+R2,"Liu, Zhang, and Liang (2023), Evaluating Verifiability in Generative Search Engines","Supports the distinction between citation presence and citation correctness","Related Work; Discussion; Limitations",https://aclanthology.org/2023.findings-emnlp.467/
+R3,"Gao et al. (2023), Enabling Large Language Models to Generate Text with Citations","Supports the citation-generation and citation-quality framing","Related Work; Discussion; References",https://aclanthology.org/2023.emnlp-main.398/
