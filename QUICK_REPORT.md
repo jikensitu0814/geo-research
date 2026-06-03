@@ -12,6 +12,7 @@
 4. 用 `data/rosetta/key_findings_rosetta.csv` 對照結論與證據表。
 5. 用 `data/aggregated/` 檢查公開聚合統計。
 6. 需要方法與限制時，閱讀 `docs/methodology.md` 與 `docs/data_limitations.md`。
+7. 需要了解 benchmark schema、prompt contribution、release 或 Codex OSS 申請定位時，閱讀 `docs/public_benchmark_schema.md`、`docs/prompt_set_contribution.md`、`docs/release_checklist.md` 與 `docs/codex_for_open_source.md`。
 
 ## 核心數字
 
@@ -27,3 +28,7 @@
 ## 重要限制
 
 公開包保留品牌 / 產品 / 平台實體、domain 與聚合統計，但不包含客戶版產業報告、原始 AI 回應全文、SQLite 資料庫、完整 URL inventory、內部 run ID、API key 或環境變數。這是一份靜態研究快照，不代表目前即時 AI Search 結果。
+
+## OSS 維護狀態
+
+這份 snapshot 已補上 citation metadata、changelog、maintainer notes、security policy、support scope、GitHub issue templates、PR checklist 與 public package validator。建議第一個 release tag 為 `v0.1-public-research-snapshot`。

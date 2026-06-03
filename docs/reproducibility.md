@@ -8,13 +8,15 @@ Run:
 python scripts/validate_public_package.py
 ```
 
-The validator checks required files, forbidden private artifacts, Markdown image references, Rosetta source references, and internal-term leakage.
+The validator checks required files, `.gitignore` safety patterns, forbidden private artifacts, Markdown image references, Rosetta source references, and internal-term leakage.
 
 ## Evidence Mapping
 
 - `data/rosetta/key_findings_rosetta.csv` maps findings to source CSV files.
 - `data/rosetta/public_release_manifest.csv` lists included and excluded materials.
 - `data/aggregated/` contains public aggregate tables.
+- `docs/release_checklist.md` records the release gate for public snapshots.
+- `docs/benchmark_governance.md` records benchmark contribution and review rules.
 
 ## Non-Published Materials
 

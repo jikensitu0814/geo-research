@@ -2,19 +2,38 @@ from __future__ import annotations
 
 import re
 import csv
+import fnmatch
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = [
+    ".gitignore",
+    ".github/ISSUE_TEMPLATE/benchmark-proposal.md",
+    ".github/ISSUE_TEMPLATE/data-error-report.md",
+    ".github/ISSUE_TEMPLATE/methodology-discussion.md",
+    ".github/ISSUE_TEMPLATE/validator-bug-report.md",
+    ".github/pull_request_template.md",
+    "AGENTS.md",
+    "CHANGELOG.md",
+    "CITATION.cff",
     "README.md",
     "TAKEOUT.md",
     "ROADMAP.md",
     "CONTRIBUTING.md",
+    "MAINTAINERS.md",
     "QUICK_REPORT.md",
+    "SECURITY.md",
+    "SUPPORT.md",
     "LICENSE.md",
     "LICENSE-CODE-MIT.md",
+    "docs/benchmark_governance.md",
+    "docs/codex_for_open_source.md",
+    "docs/prompt_set_contribution.md",
+    "docs/public_benchmark_schema.md",
+    "docs/release_checklist.md",
+    "docs/release_notes_v0.1.md",
     "paper/research_paper.md",
     "paper/ai_search_ranking_consistency_article.md",
     "data/schema.md",
@@ -53,6 +72,8 @@ FORBIDDEN_TERMS = [
     "GEMINI_API_KEY",
 ]
 
+RELEASE_TAG = "v0.1-public-research-snapshot"
+
 TEXT_SUFFIXES = {
     ".md",
     ".csv",
@@ -69,6 +90,39 @@ def main() -> None:
     for rel in REQUIRED:
         if not (ROOT / rel).exists():
             fail(f"missing required file: {rel}")
+
+    license_text = (ROOT / "LICENSE.md").read_text(encoding="utf-8")
+    for marker in ["SPDX-License-Identifier: CC-BY-4.0", "https://creativecommons.org/licenses/by/4.0/legalcode", "己見室 jikensitu"]:
+        if marker not in license_text:
+            fail(f"LICENSE.md missing marker: {marker}")
+
+    cff_text = (ROOT / "CITATION.cff").read_text(encoding="utf-8")
+    for marker in ['version: "0.1.0"', 'license: "CC-BY-4.0"', 'repository-code:']:
+        if marker not in cff_text:
+            fail(f"CITATION.cff missing marker: {marker}")
+
+    release_checklist = (ROOT / "docs" / "release_checklist.md").read_text(encoding="utf-8")
+    release_notes = (ROOT / "docs" / "release_notes_v0.1.md").read_text(encoding="utf-8")
+    if RELEASE_TAG not in release_checklist or RELEASE_TAG not in release_notes:
+        fail(f"release docs missing release tag: {RELEASE_TAG}")
+
+    gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
+    for pattern in [".env", ".env.*", "*.db", "*.sqlite", "*.sqlite3", "raw/", "private/"]:
+        if pattern not in gitignore:
+            fail(f".gitignore missing required pattern: {pattern}")
+
+    manifest_path = ROOT / "data" / "rosetta" / "public_release_manifest.csv"
+    with manifest_path.open("r", encoding="utf-8-sig", newline="") as f:
+        manifest_rows = list(csv.DictReader(f))
+    manifest_included = [
+        (row.get("path") or "").strip()
+        for row in manifest_rows
+        if (row.get("status") or "").strip() == "included"
+    ]
+    for rel in REQUIRED:
+        covered = rel in manifest_included or any(fnmatch.fnmatch(rel, pattern) for pattern in manifest_included)
+        if not covered:
+            fail(f"public_release_manifest.csv does not include required file: {rel}")
 
     for rel in FORBIDDEN_DIRS:
         if (ROOT / rel).exists():

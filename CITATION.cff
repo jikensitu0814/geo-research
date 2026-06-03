@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this public research package, please cite it as below."
+title: "AI Search 品牌能見度研究"
+type: dataset
+authors:
+  - name: "己見室 jikensitu"
+    website: "https://jikensitu.com/"
+repository-code: "https://github.com/jikensitu/geo-research"
+url: "https://github.com/jikensitu/geo-research"
+date-released: "2026-06-04"
+version: "0.1.0"
+license: "CC-BY-4.0"
+keywords:
+  - "AI Search"
+  - "Generative Engine Optimization"
+  - "GEO"
+  - "brand visibility"
+  - "citation analysis"
+  - "rank volatility"
+

@@ -9,8 +9,11 @@
 3. 讀 `paper/research_paper.md`，查看完整中文研究論文。
 4. 讀 `paper/ai_search_ranking_consistency_article.md`，查看 AI 推薦排序穩定性的公開文章。
 5. 用 `data/rosetta/key_findings_rosetta.csv` 將主要結論追溯到公開證據表。
-6. 讀 `ROADMAP.md`，了解後續 tracking / validation tool 規劃。
-7. 讀 `CONTRIBUTING.md`，了解如何貢獻與避免提交敏感資料。
+6. 讀 `docs/benchmark_governance.md`，了解 benchmark 擴充與審查原則。
+7. 讀 `docs/public_benchmark_schema.md` 與 `docs/prompt_set_contribution.md`，了解 benchmark schema 與 prompt set 提案要求。
+8. 讀 `ROADMAP.md`，了解後續 tracking / validation tool 規劃。
+9. 讀 `CONTRIBUTING.md`，了解如何貢獻與避免提交敏感資料。
+10. 讀 `docs/codex_for_open_source.md`，了解 Codex for Open Source 申請敘事與維護工作流。
 
 ## 這份公開包包含什麼
 
@@ -25,8 +28,18 @@
 | `docs/methodology.md` | 抽樣、測量與分類規則 |
 | `docs/data_limitations.md` | 公開資料限制 |
 | `docs/reproducibility.md` | 可重現性說明 |
+| `docs/benchmark_governance.md` | benchmark 擴充、審查與版本維護原則 |
+| `docs/public_benchmark_schema.md` | public benchmark measurement layers 與欄位契約 |
+| `docs/prompt_set_contribution.md` | prompt set 提案與審查要求 |
+| `docs/codex_for_open_source.md` | Codex OSS 申請敘事與 maintainer workflow |
+| `docs/release_checklist.md` | release 前檢查流程 |
+| `docs/release_notes_v0.1.md` | 第一個公開 snapshot 的 release notes 草稿 |
 | `ROADMAP.md` | 後續 AI Search tracking / validation tool 規劃 |
 | `CONTRIBUTING.md` | 貢獻方式與資料安全規則 |
+| `CHANGELOG.md` | 公開版本紀錄 |
+| `CITATION.cff` | citation metadata |
+| `SECURITY.md` | 敏感資料風險回報方式 |
+| `SUPPORT.md` | issue 與支援範圍 |
 | `scripts/validate_public_package.py` | 本地公開包驗證工具 |
 
 ## 研究快照
@@ -81,3 +94,14 @@ public package validation passed
 - `data/rosetta/dataset_scope.csv`
 
 論文、圖表、文件與聚合資料除非另有標示，採 CC BY 4.0 授權。`scripts/` 內的程式碼採 MIT 授權。
+
+建議引用：
+
+```text
+己見室 jikensitu (https://jikensitu.com/)
+AI Search 品牌能見度研究
+CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+```
+
+若使用 citation manager，請參考 `CITATION.cff`。

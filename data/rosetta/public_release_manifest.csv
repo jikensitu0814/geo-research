@@ -1,4 +1,17 @@
-﻿path,status,reason
+path,status,reason
+AGENTS.md,included,Repository collaboration and validation guidance
+.gitignore,included,Local secret and private artifact ignore rules
+.github/ISSUE_TEMPLATE/*.md,included,Public issue templates for data methodology benchmark and validator reports
+.github/pull_request_template.md,included,Public PR checklist for validation and data safety
+CHANGELOG.md,included,Public release history
+CITATION.cff,included,Citation metadata for the public research package
+README.md,included,Repository overview and public entrypoint
+QUICK_REPORT.md,included,Short public research summary
+LICENSE.md,included,CC BY 4.0 license and attribution guidance
+LICENSE-CODE-MIT.md,included,MIT license for scripts
+MAINTAINERS.md,included,Maintainer identity and review responsibilities
+SECURITY.md,included,Release-safety and disclosure-risk reporting guidance
+SUPPORT.md,included,Issue and support scope guidance
 TAKEOUT.md,included,Short public handoff guide for readers who download or clone the package
 ROADMAP.md,included,Future tracking and validation tool roadmap
 CONTRIBUTING.md,included,Contribution and sensitive-data safety guidance
@@ -7,8 +20,15 @@ paper/ai_search_ranking_consistency_article.md,included,Public research article 
 reports/*.md,excluded,Client-facing industry reports are not part of this public GitHub release
 paper/assets/*.png,included,Existing public figures
 data/aggregated/*.csv,included,Aggregated public statistics
+data/schema.md,included,Public CSV field definitions
 data/rosetta/*.csv,included,Finding-to-evidence mapping
 docs/*.md,included,Methodology and limitations
+docs/benchmark_governance.md,included,Benchmark review principles and versioning rules
+docs/codex_for_open_source.md,included,Codex for Open Source application narrative and maintainer workflow
+docs/prompt_set_contribution.md,included,Prompt set proposal and review guide
+docs/public_benchmark_schema.md,included,Public benchmark measurement layers and field contract
+docs/release_checklist.md,included,Release gate and Codex OSS preparation checklist
+docs/release_notes_v0.1.md,included,Draft notes for the first public snapshot release
 scripts/*.py,included,Public package validation helper
 data/*.db,excluded,SQLite databases are not part of public release
 raw exports,excluded,Run-level traces are not public
