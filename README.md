@@ -68,6 +68,28 @@ The project is positioned as public research infrastructure for the emerging AI 
 5. ChatGPT 與 Gemini 經常使用不同來源池組裝回答。
 6. AI 推薦順序在重複執行時高度不穩定；重複能見度、Top-3 overlap 與 rank volatility 比單次排名更適合追蹤 AI Search visibility。
 
+## AIO / SERP Overlap Module
+
+This release also includes a public aggregate module for Google AI Overviews and traditional SERP overlap. It measures whether AIO citation hostnames also appear in SERP top 3 and top 10 for the same observation.
+
+| Metric | Value |
+| --- | ---: |
+| Search observations | 12,386 |
+| Keyword labels | 490 |
+| AIO trigger rate | 80.75% |
+| AIO cited hostnames also in SERP top 3 | 25.38% |
+| AIO cited hostnames also in SERP top 10 | 62.26% |
+| SERP top 3 hostnames cited by AIO | 66.22% |
+| SERP top 10 hostnames cited by AIO | 50.16% |
+
+Entry points:
+
+- `paper/aio_serp_overlap_research_note.md`
+- `docs/aio_serp_overlap_methodology.md`
+- `docs/aio_serp_data_limitations.md`
+- `docs/aio_serp_literature_notes.md`
+- `data/aggregated/public_aio_serp_overlap_overall.csv`
+
 ## Repository 結構
 
 ```text

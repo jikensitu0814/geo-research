@@ -62,6 +62,18 @@
 5. 實體名單穩定性與 citation domain 穩定性是兩個不同測量層。
 6. 相鄰日推薦順序高度不穩定：加權後完全同序率為 4.10%，Top-1 穩定率為 24.10%。
 
+## AIO / SERP overlap 追加資料
+
+本公開包新增 Google AIO 引用來源與 SERP 排名重疊的匿名聚合資料。建議閱讀順序：
+
+1. `paper/aio_serp_overlap_research_note.md`
+2. `docs/aio_serp_overlap_methodology.md`
+3. `docs/aio_serp_data_limitations.md`
+4. `docs/aio_serp_literature_notes.md`
+5. `data/aggregated/public_aio_serp_overlap_overall.csv`
+
+此模組不包含 raw payload、完整 URL inventory、客戶名稱或內部識別欄位。
+
 ## 如何驗證公開包
 
 從 repository root 執行：

@@ -2,6 +2,21 @@
 
 All notable public research package changes are documented here.
 
+## [0.2.0] - 2026-06-13
+
+### Added
+
+- Public AIO / SERP overlap research module with anonymized aggregate CSV tables.
+- AIO-to-SERP and SERP-to-AIO overlap metrics for top 3 and top 10 hostname comparisons.
+- Methodology, data-limitations, literature-notes, and research-note documents for the AIO / SERP module.
+- Public transformation script for rebuilding aggregate AIO / SERP tables from private analysis outputs.
+
+### Not Included
+
+- Raw DataForSEO payloads.
+- Full URL inventories.
+- Customer names or internal identifiers.
+
 ## [0.1.0] - 2026-06-04
 
 ### Added

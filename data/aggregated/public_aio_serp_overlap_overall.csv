@@ -1,0 +1,15 @@
+﻿metric_group,metric,value,unit,notes
+scope,client_count,19,clients,Distinct customers in the private source data; public release excludes client identifiers.
+scope,client_keyword_count,490,client_keywords,Client x keyword count for 2026-05-13 to 2026-06-12.
+scope,crawl_units_keyword_day,12386,keyword_day_units,Total keyword-day search records in the requested period.
+scope,aio_triggered_units,10001,keyword_day_units,Keyword-day records with Google AIO triggered.
+scope,aio_trigger_rate_pct,80.75,percent,AIO triggered units divided by total keyword-day search records.
+dataforseo_fetch,task_total,10001,tasks,AIO-triggered DataForSEO task ids requested for retrieval.
+dataforseo_fetch,task_success_analyzable,9693,tasks,Tasks successfully retrieved and included in overlap analysis.
+dataforseo_fetch,task_failed_expired,308,tasks,2026-05-13 tasks returned Results Expired and are excluded from overlap calculations.
+overlap_aio_to_serp,aio_domain_overlap_serp_top3_pct,25.38,percent,"AIO cited domains that also appear in SERP top 3, domain-instance weighted."
+overlap_aio_to_serp,aio_domain_overlap_serp_top10_pct,62.26,percent,"AIO cited domains that also appear in SERP top 10, domain-instance weighted."
+overlap_serp_to_aio,serp_top3_domain_cited_by_aio_pct,66.22,percent,SERP top 3 domain instances that are also cited by AIO.
+overlap_serp_to_aio,serp_top10_domain_cited_by_aio_pct,50.16,percent,SERP top 10 domain instances that are also cited by AIO.
+task_level_overlap,task_with_top3_overlap_pct,95.55,percent,Tasks with at least one AIO cited domain appearing in SERP top 3.
+task_level_overlap,task_with_top10_overlap_pct,99.66,percent,Tasks with at least one AIO cited domain appearing in SERP top 10.

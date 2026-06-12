@@ -1,36 +1,46 @@
-path,status,reason
-AGENTS.md,included,Repository collaboration and validation guidance
-.gitignore,included,Local secret and private artifact ignore rules
-.github/ISSUE_TEMPLATE/*.md,included,Public issue templates for data methodology benchmark and validator reports
-.github/pull_request_template.md,included,Public PR checklist for validation and data safety
-CHANGELOG.md,included,Public release history
-CITATION.cff,included,Citation metadata for the public research package
-README.md,included,Repository overview and public entrypoint
-QUICK_REPORT.md,included,Short public research summary
-LICENSE.md,included,CC BY 4.0 license and attribution guidance
-LICENSE-CODE-MIT.md,included,MIT license for scripts
-MAINTAINERS.md,included,Maintainer identity and review responsibilities
-SECURITY.md,included,Release-safety and disclosure-risk reporting guidance
-SUPPORT.md,included,Issue and support scope guidance
-TAKEOUT.md,included,Short public handoff guide for readers who download or clone the package
-ROADMAP.md,included,Future tracking and validation tool roadmap
-CONTRIBUTING.md,included,Contribution and sensitive-data safety guidance
-paper/research_paper.md,included,Chinese public research paper
-paper/ai_search_ranking_consistency_article.md,included,Public research article about recommendation order stability
-reports/*.md,excluded,Client-facing industry reports are not part of this public GitHub release
-paper/assets/*.png,included,Existing public figures
-data/aggregated/*.csv,included,Aggregated public statistics
-data/schema.md,included,Public CSV field definitions
-data/rosetta/*.csv,included,Finding-to-evidence mapping
-docs/*.md,included,Methodology and limitations
-docs/benchmark_governance.md,included,Benchmark review principles and versioning rules
-docs/codex_for_open_source.md,included,Codex for Open Source application narrative and maintainer workflow
-docs/prompt_set_contribution.md,included,Prompt set proposal and review guide
-docs/public_benchmark_schema.md,included,Public benchmark measurement layers and field contract
-docs/release_checklist.md,included,Release gate and Codex OSS preparation checklist
-docs/release_notes_v0.1.md,included,Draft notes for the first public snapshot release
-scripts/*.py,included,Public package validation helper
-data/*.db,excluded,SQLite databases are not part of public release
-raw exports,excluded,Run-level traces are not public
-.env,excluded,Secrets and environment variables
-render_check/,excluded,Local rendering artifacts
+﻿"path","status","reason"
+"AGENTS.md","included","Repository collaboration and validation guidance"
+".gitignore","included","Local secret and private artifact ignore rules"
+".github/ISSUE_TEMPLATE/*.md","included","Public issue templates for data methodology benchmark and validator reports"
+".github/pull_request_template.md","included","Public PR checklist for validation and data safety"
+"CHANGELOG.md","included","Public release history"
+"CITATION.cff","included","Citation metadata for the public research package"
+"README.md","included","Repository overview and public entrypoint"
+"QUICK_REPORT.md","included","Short public research summary"
+"LICENSE.md","included","CC BY 4.0 license and attribution guidance"
+"LICENSE-CODE-MIT.md","included","MIT license for scripts"
+"MAINTAINERS.md","included","Maintainer identity and review responsibilities"
+"SECURITY.md","included","Release-safety and disclosure-risk reporting guidance"
+"SUPPORT.md","included","Issue and support scope guidance"
+"TAKEOUT.md","included","Short public handoff guide for readers who download or clone the package"
+"ROADMAP.md","included","Future tracking and validation tool roadmap"
+"CONTRIBUTING.md","included","Contribution and sensitive-data safety guidance"
+"paper/research_paper.md","included","Chinese public research paper"
+"paper/ai_search_ranking_consistency_article.md","included","Public research article about recommendation order stability"
+"reports/*.md","excluded","Client-facing industry reports are not part of this public GitHub release"
+"paper/assets/*.png","included","Existing public figures"
+"data/aggregated/*.csv","included","Aggregated public statistics"
+"data/schema.md","included","Public CSV field definitions"
+"data/rosetta/*.csv","included","Finding-to-evidence mapping"
+"docs/*.md","included","Methodology and limitations"
+"docs/benchmark_governance.md","included","Benchmark review principles and versioning rules"
+"docs/codex_for_open_source.md","included","Codex for Open Source application narrative and maintainer workflow"
+"docs/prompt_set_contribution.md","included","Prompt set proposal and review guide"
+"docs/public_benchmark_schema.md","included","Public benchmark measurement layers and field contract"
+"docs/release_checklist.md","included","Release gate and Codex OSS preparation checklist"
+"docs/release_notes_v0.1.md","included","Draft notes for the first public snapshot release"
+"scripts/*.py","included","Public package validation helper"
+"data/*.db","excluded","SQLite databases are not part of public release"
+"raw exports","excluded","Run-level traces are not public"
+".env","excluded","Secrets and environment variables"
+"render_check/","excluded","Local rendering artifacts"
+"paper/aio_serp_overlap_research_note.md","included","Public AIO/SERP overlap research note"
+"docs/aio_serp_overlap_methodology.md","included","AIO/SERP overlap methodology"
+"docs/aio_serp_data_limitations.md","included","AIO/SERP public data limitations"
+"docs/aio_serp_literature_notes.md","included","AIO/SERP external literature notes"
+"data/aggregated/public_aio_serp_overlap_overall.csv","included","Public aggregate AIO/SERP headline metrics"
+"data/aggregated/public_aio_serp_overlap_by_date.csv","included","Public aggregate daily AIO/SERP overlap metrics"
+"data/aggregated/public_aio_serp_overlap_by_client_bucket.csv","included","Anonymous customer-bucket AIO/SERP overlap metrics"
+"data/aggregated/public_aio_serp_top_domains.csv","included","Public top citation hostnames for AIO/SERP module"
+"scripts/build_public_aio_serp_overlap.py","included","Script for rebuilding public AIO/SERP aggregate tables"
+"docs/aio_serp_public_package_checklist_2026-06-13.md","included","Implementation checklist for AIO/SERP public module"

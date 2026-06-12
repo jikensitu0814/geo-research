@@ -25,6 +25,20 @@
 | 研究設計量 | 3,240 筆 AI 回應 |
 | 有效分析樣本 | 3,237 筆 AI 回應 |
 
+## AIO / SERP overlap 追加研究
+
+| 項目 | 數值 |
+| --- | ---: |
+| 搜尋觀測量 | 12,386 |
+| 關鍵字數量 | 490 |
+| AIO 觸發率 | 80.75% |
+| AIO 引用網域 vs SERP 前 3 | 25.38% |
+| AIO 引用網域 vs SERP 前 10 | 62.26% |
+| SERP 前 3 網域被 AIO 引用 | 66.22% |
+| SERP 前 10 網域被 AIO 引用 | 50.16% |
+
+詳細方法見 `docs/aio_serp_overlap_methodology.md`，公開聚合資料見 `data/aggregated/public_aio_serp_overlap_overall.csv`。
+
 ## 重要限制
 
 公開包保留品牌 / 產品 / 平台實體、domain 與聚合統計，但不包含客戶版產業報告、原始 AI 回應全文、SQLite 資料庫、完整 URL inventory、內部 run ID、API key 或環境變數。這是一份靜態研究快照，不代表目前即時 AI Search 結果。
